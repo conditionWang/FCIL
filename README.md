@@ -2,7 +2,7 @@
 
 This is the implementation code of CVPR 2022 paper 'Federated Class-Incremental Learning'.
 
-[overview](https://github.com/conditionWang/FCIL/tree/main/fig/overview.png)
+![overview](https://github.com/conditionWang/FCIL/tree/main/fig/overview.png)
 
 
 ## requirement
@@ -49,9 +49,9 @@ The detailed arguments can be found in './src/option.py'.
 
 ## performance
 
-[cifar](https://github.com/conditionWang/FCIL/tree/main/fig/cifar_result.png)
+![cifar](https://github.com/conditionWang/FCIL/tree/main/fig/cifar_result.png)
 
-[imagenet-subset](https://github.com/conditionWang/FCIL/tree/main/fig/imagenet_subset_result.png)
+![imagenet-subset](https://github.com/conditionWang/FCIL/tree/main/fig/imagenet_subset_result.png)
 
 
 ## cite
