@@ -2,6 +2,7 @@
 
 This is the implementation code of CVPR 2022 paper 'Federated Class-Incremental Learning'.
 
+[overview](./fig/overview.png)
 
 
 ## requirement
@@ -31,11 +32,11 @@ You don't need to do anything before running the experiments of CIFAR100.
 
 ### Mini-Imagenet (Imagenet-Subset)
 
-You need to download the Mini-Imagenet from  and place it in './train'.
+You need to download the Mini-Imagenet from [https://github.com/yaoyao-liu/mini-imagenet-tools](https://github.com/yaoyao-liu/mini-imagenet-tools) and place it in './train'.
 
 ### Tiny-Imagenet
 
-You need to download the Tiny-Imagenet from and place it in './tiny-imagenet-200'
+You need to download the Tiny-Imagenet from [https://github.com/seshuad/IMagenet](https://github.com/seshuad/IMagenet) and place it in './tiny-imagenet-200'.
 
 
 ## run
@@ -45,6 +46,13 @@ python fl_main.py
 ```
 
 The detailed arguments can be found in './src/option.py'.
+
+## performance
+
+[cifar](./fig/cifar_result.png)
+
+[imagenet-subset](./fig/imagenet_subset_result.png)
+
 
 ## cite
 
