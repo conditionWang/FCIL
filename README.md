@@ -49,9 +49,9 @@ The detailed arguments can be found in './src/option.py'.
 
 ## performance
 
-![cifar](https://github.com/conditionWang/FCIL/tree/main/fig/cifar_result.png)
+![cifar](./fig/cifar_result.png)
 
-![imagenet-subset](https://github.com/conditionWang/FCIL/tree/main/fig/imagenet_subset_result.png)
+![imagenet-subset](./fig/imagenet_subset_result.png)
 
 
 ## cite
