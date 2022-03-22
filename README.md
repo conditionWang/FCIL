@@ -64,7 +64,7 @@ If you find our work is helpful to your research, please consider to cite.
 
 ```
 @InProceedings{dong2022federated,
-    author = {Jiahua Dong and Lixu Wang and Zhen Fang and Gan Sun and Shichao Xu and Xiao Wang and Qi Zhu},
+    author = {Jiahua, Dong and Lixu, Wang and Zhen, Fang and Gan, Sun and Shichao, Xu and Xiao, Wang and Qi, Zhu},
     title = {Federated Class Incremental Learning},
     booktitle = {CVPR},
     year = {2022}
