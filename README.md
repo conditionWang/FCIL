@@ -41,7 +41,7 @@ You can also find the arXiv version with supplementary material at [here](https:
 
 
 
-## Training
+## Training:
 
 ```shell
 python fl_main.py
@@ -49,18 +49,18 @@ python fl_main.py
 
 The detailed arguments can be found in './src/option.py'.
 
-## Performance
+## Performance:
 
 * **Experiments on CIFAR100 dataset**
 
 ![cifar](./fig/cifar_result.png)
 
-* **Imagenet-Subset (Mini-Imagenet)**
+* **Experiments on Imagenet-Subset (Mini-Imagenet) dataset**
 
 ![imagenet-subset](./fig/imagenet_subset_result.png)
 
 
-## Citation
+## Citation:
 
 If you find this code is useful to your research, please consider to cite our paper.
 
@@ -74,7 +74,7 @@ If you find this code is useful to your research, please consider to cite our pa
 }
 ```
 
-## Contact
+## Contact:
 
 * **Lixu Wang:**  lixuwang2025@u.northwestern.edu
 * **Jiahua Dong:** dongjiahua@sia.cn
