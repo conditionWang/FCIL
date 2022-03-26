@@ -33,9 +33,9 @@ You can also find the arXiv version with supplementary material at [here](https:
 
 ## Datasets:
 
-* **CIFAR100:** You don't need to do anything before running the experiments on [CIFAR100]() dataset.
+* **CIFAR100:** You don't need to do anything before running the experiments on [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
 
-* **Imagenet-Subset:** Please manually download the on [Imagenet-Subset](https://github.com/yaoyao-liu/mini-imagenet-tools) dataset from the official websites, and place it in './train'.
+* **Imagenet-Subset (Mini-Imagenet):** Please manually download the on [Imagenet-Subset (Mini-Imagenet)](https://github.com/yaoyao-liu/mini-imagenet-tools) dataset from the official websites, and place it in './train'.
 
 * **Tiny-Imagenet:** Please manually download the on [Tiny-Imagenet](https://github.com/seshuad/IMagenet) dataset from the official websites, and place it in './tiny-imagenet-200'.
 
@@ -49,20 +49,20 @@ python fl_main.py
 
 The detailed arguments can be found in './src/option.py'.
 
-## performance
+## Performance
 
-#### CIFAR100
+* **Experiments on CIFAR100 dataset**
 
 ![cifar](./fig/cifar_result.png)
 
-#### Mini-Imagenet (Imagenet-Subset)
+* **Imagenet-Subset (Mini-Imagenet)**
 
 ![imagenet-subset](./fig/imagenet_subset_result.png)
 
 
-## cite
+## Citation
 
-If you find our work is helpful to your research, please consider to cite.
+If you find this code is useful to your research, please consider to cite our paper.
 
 ```
 @InProceedings{dong2022federated,
@@ -74,6 +74,9 @@ If you find our work is helpful to your research, please consider to cite.
 }
 ```
 
+## Contact
 
+* **Lixu Wang:**  lixuwang2025@u.northwestern.edu
+* **Jiahua Dong:** dongjiahua@sia.cn
 
 
