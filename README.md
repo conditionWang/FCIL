@@ -2,7 +2,7 @@
 
 # [[CVPR-2022] Federated Class-Incremental Learning](https://arxiv.org/abs/2203.11473)
 
-This is the official implementation code of our paper "Federated Class-Incremental Learning" acepted by CVPR-2022. 
+This is the official implementation code of our paper "**Federated Class-Incremental Learning**" acepted by [CVPR-2022](https://cvpr2022.thecvf.com/). 
 
 You can also find the arXiv version with supplementary material at [here](https://arxiv.org/abs/2203.11473).
 
@@ -18,17 +18,17 @@ You can also find the arXiv version with supplementary material at [here](https:
 
 * torch == 1.2.0
 
-numpy
+* numpy
 
-PIL
+* PIL
 
-torchvision == 0.4.0
+*torchvision == 0.4.0
 
-cv2
+*cv2
 
-scipy == 1.5.2
+*scipy == 1.5.2
 
-sklearn == 0.24.1
+*sklearn == 0.24.1
 
 
 ## pre-preparations
