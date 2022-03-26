@@ -12,7 +12,7 @@ You can also find the arXiv version with supplementary material at [here](https:
 ![overview](./fig/overview.png)
 
 
-## Prerequisites
+## Prerequisites:
 
 * python == 3.6
 
@@ -22,31 +22,26 @@ You can also find the arXiv version with supplementary material at [here](https:
 
 * PIL
 
-*torchvision == 0.4.0
+* torchvision == 0.4.0
 
-*cv2
+* cv2
 
-*scipy == 1.5.2
+* scipy == 1.5.2
 
-*sklearn == 0.24.1
-
-
-## pre-preparations
-
-#### CIFAR100
-
-You don't need to do anything before running the experiments of CIFAR100.
-
-#### Mini-Imagenet (Imagenet-Subset)
-
-You need to download the Mini-Imagenet from [here](https://github.com/yaoyao-liu/mini-imagenet-tools) and place it in './train'.
-
-#### Tiny-Imagenet
-
-You need to download the Tiny-Imagenet from [here](https://github.com/seshuad/IMagenet) and place it in './tiny-imagenet-200'.
+* sklearn == 0.24.1
 
 
-## run
+## Datasets:
+
+* **CIFAR100:** You don't need to do anything before running the experiments on [CIFAR100]() dataset.
+
+* **Imagenet-Subset:** Please manually download the on [Imagenet-Subset](https://github.com/yaoyao-liu/mini-imagenet-tools) dataset from the official websites, and place it in './train'.
+
+* **Tiny-Imagenet:** Please manually download the on [Tiny-Imagenet](https://github.com/seshuad/IMagenet) dataset from the official websites, and place it in './tiny-imagenet-200'.
+
+
+
+## Training
 
 ```shell
 python fl_main.py
