@@ -1,6 +1,10 @@
 # Official PyTorch Implementation for GLFC
 
-This is the implementation code of CVPR 2022 paper 'Federated Class-Incremental Learning'. You can find the arxiv version at [here](https://arxiv.org/abs/2203.11473).
+# [CVPR 2022 Federated Class-Incremental Learning](https://arxiv.org/abs/2203.11473)
+
+# This is the official implementation code of CVPR 2022 paper 'Federated Class-Incremental Learning'. 
+
+You can find the arxiv version at [here](https://arxiv.org/abs/2203.11473).
 
 ![overview](./fig/overview.png)
 
