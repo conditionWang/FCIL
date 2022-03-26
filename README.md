@@ -43,11 +43,12 @@ You can also find the arXiv version with supplementary material at [here](https:
 
 ## Training:
 
+* Please check the detailed arguments in './src/option.py'.
+
 ```shell
 python fl_main.py
 ```
 
-The detailed arguments can be found in './src/option.py'.
 
 ## Performance:
 
