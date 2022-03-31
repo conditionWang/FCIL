@@ -54,11 +54,11 @@ python fl_main.py
 
 * **Experiments on CIFAR100 dataset**
 
-![cifar](./fig/cifar_result.png)
+![cifar](./fig/imagenet_subset_result.png)
 
 * **Experiments on Imagenet-Subset (Mini-Imagenet) dataset**
 
-![imagenet-subset](./fig/imagenet_subset_result.png)
+![imagenet-subset](./fig/cifar_result.png)
 
 
 ## Citation:
