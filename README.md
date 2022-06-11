@@ -1,6 +1,6 @@
 # Official Pytorch Implementation for GLFC
 
-## [[CVPR-2022] Federated Class-Incremental Learning](https://arxiv.org/abs/2203.11473)
+## [[CVPR-2022] Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
 
 This is the official implementation code of our paper "**Federated Class-Incremental Learning**" accepted by [CVPR-2022](https://cvpr2022.thecvf.com/). 
 
