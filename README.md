@@ -2,9 +2,9 @@
 
 ## [[CVPR-2022] Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
 
-This is the official implementation code of our paper "**Federated Class-Incremental Learning**" accepted by [CVPR-2022](https://cvpr2022.thecvf.com/). 
+This is the implementation code of the CVPR 2022 paper ["**Federated Class-Incremental Learning**"](https://cvpr2022.thecvf.com/). 
 
-You can also find the arXiv version with supplementary material at [here](https://arxiv.org/abs/2203.11473).
+You can also find the arXiv version with supplementary materials [here](https://arxiv.org/abs/2203.11473). More related works are provided as [Dynamic Federated Learning](https://github.com/conditionWang/Dynamic-FL), please work with us to make FL more practical and realistic.
 
 
 ## Framework:
