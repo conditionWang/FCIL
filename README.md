@@ -4,7 +4,7 @@
 
 This is the implementation code of the CVPR 2022 paper ["**Federated Class-Incremental Learning**"](https://cvpr2022.thecvf.com/). 
 
-You can also find the arXiv version with supplementary materials [here](https://arxiv.org/abs/2203.11473). More related works are provided as [Dynamic Federated Learning](https://github.com/conditionWang/Dynamic-FL), please work with us to make FL more practical and realistic.
+You can also find the arXiv version with supplementary materials [here](https://arxiv.org/abs/2203.11473). More related works are provided at [Dynamic Federated Learning](https://github.com/conditionWang/Dynamic-FL), please work with us to make FL more practical and realistic.
 
 
 ## Framework:
@@ -14,22 +14,14 @@ You can also find the arXiv version with supplementary materials [here](https://
 
 ## Prerequisites:
 
-* python == 3.6
-
-* torch == 1.2.0
-
-* numpy
-
-* PIL
-
-* torchvision == 0.4.0
-
-* cv2
-
-* scipy == 1.5.2
-
-* sklearn == 0.24.1
-
+    * python == 3.6
+    * torch == 1.2.0
+    * numpy
+    * PIL
+    * torchvision == 0.4.0
+    * cv2
+    * scipy == 1.5.2
+    * sklearn == 0.24.1
 
 ## Datasets:
 
