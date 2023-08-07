@@ -52,6 +52,11 @@ python fl_main.py
 
 ![imagenet-subset](./fig/cifar_result.png)
 
+## Related Works
+
+We apply federated class-incremental learning to semantic segmentation task.
+
+1. [[CVPR-2023] Federated Incremental Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2023/html/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.html) [[Code]](https://github.com/JiahuaDong/FISS)
 
 ## Citation:
 
